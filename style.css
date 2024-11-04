@@ -1,0 +1,34 @@
+body {
+    background-color: #ffeef8; /* Light pink background */
+    color: #003366; /* Dark blue text */
+    font-family: 'Space Mono', monospace; /* Cute, spaced-out font */
+    margin: 0;
+    padding: 20px;
+    letter-spacing: 1px; /* Add spacing between letters */
+}
+
+h1, h2, h3 {
+    color: #003366; /* Dark blue headings */
+    font-weight: bold; /* Bold headings */
+    border-bottom: 4px solid #003366; /* Bigger dark blue border below headings */
+    padding-bottom: 10px;
+}
+
+p {
+    color: #00509e; /* Slightly lighter dark blue for paragraphs */
+    font-weight: bold; /* Bold paragraphs */
+    border-left: 4px solid #003366; /* Dark blue border on the left */
+    padding-left: 10px;
+    margin: 10px 0;
+}
+
+button {
+    background-color: #003366; /* Dark blue button */
+    color: white;
+    border: 4px solid #00509e; /* Bigger lighter dark blue border */
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer
+
+
+
